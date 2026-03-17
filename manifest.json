@@ -1,4 +1,5 @@
 {
+    "manifest_version": 3
     "name": "Eye Health Timer",
     "version": "1.0.0",
     "description": "A simple eye health timer to remind you to take breaks",
